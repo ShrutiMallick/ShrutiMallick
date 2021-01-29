@@ -15,11 +15,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <a href="https://github.com/ShrutiMallick">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?     username=ShrutiMallick&&show_icons=true&title_color=66FF66&icon_color=0000CC&text_color=daf7dc&bg_color=151515&line_height=27"alt="Shruti's github stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShrutiMallick&show_icons=true&icon_color=0000FF&title_color=00FFFF&theme=dark&line_height=27"  alt="Shruti's github stats">
 </a>
 
 <a href="https://github.com/ShrutiMallick">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMallick&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMallick&theme=dark&hide_langs_below=1" />
 </a>
 
 <br>
